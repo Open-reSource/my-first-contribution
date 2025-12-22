@@ -1,6 +1,6 @@
 # Contributing to the project
 
-Thank you for your interest in contributing to this project! We welcome contributions from everyone. By participating in this project, you agree to abide by the [code of conduct](CODE_OF_CONDUCT.md).
+Thank you for your interest in contributing to this project! We welcome contributions from everyone. By participating in this project, you agree to abide by the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 Please take a moment to review this document in order to make the contribution process easy and effective for everyone involved.
 
