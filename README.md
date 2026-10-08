@@ -1,8 +1,6 @@
-<p align="center"><picture><source srcset=".github/header.svg" type="image/svg+xml"><img src=".github/header.png" width="830" alt="My First Contribution, by Open {re}Source. Your first pull request, step by step."></picture></p>
+<h1 align="center"><picture><source media="(prefers-color-scheme: dark)" srcset=".github/logo-title-dark.svg"><source media="(prefers-color-scheme: light)" srcset=".github/logo-title-light.svg"><img src=".github/logo-title-light.png" width="615" alt="My First Contribution"></picture></h1>
 
-# my-first-contribution
-
-Learn how to create a Pull Request (PR) and make your first Open Source contribution step by step!
+<p align="center">Learn how to create a Pull Request (PR) and make your first Open Source contribution step by step!</p>
 
 ## How does it work?
 
@@ -27,4 +25,4 @@ If you find them, you'll be able to successfully add your GitHub username to the
   </a>
 </p>
 
-<sub>The Open {re}Source mark and the header image (`.github/header.*`) are not covered by the licence of this repository: all rights reserved.</sub>
+<sub>The Open {re}Source mark and the title image (`.github/logo-title-*`) are not covered by the licence of this repository: all rights reserved.</sub>
